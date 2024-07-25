@@ -1,10 +1,5 @@
 
-## Assignment 3
-
-Development and Validation of Data Management Schemas for Web and PDF Content Analysis With DBT and Snowflake Integration
-
-
-
+# Data Management System for Web and PDF Content Analysis
 
 ## Problem Statement
 
