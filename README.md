@@ -235,10 +235,3 @@ Below is the execution of DBT Cloud jobs through Airflow:
 
 
 By following these steps, you will be able to run the application locally from scratch. Ensure that Docker Desktop is installed and running before hosting the Grobid server.
-## Team Information and Contribution 
-
-Name           | NUID          |
----------------|---------------|
-Anirudh Joshi  | 002991365     |      
-Nitant Jatale  | 002776669     |      
-Rutuja More    | 00272782      |      
