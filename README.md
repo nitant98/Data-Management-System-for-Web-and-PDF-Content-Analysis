@@ -35,12 +35,6 @@ In the evolving landscape of data management and analysis, efficiently organizin
 10. Considerations for Test and Production environments include data isolation, access controls, version control, and deployment strategies.
 11. Automate the process using Airflow
     
-## Codelab
-
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)]([[https://codelabs-preview.appspot.com/?file_id=1GaUW9ixS5DoZZtLuGraSBG1kyH8JeJ18ZtBA3PeZngo#3]](https://codelabs-preview.appspot.com/?file_id=1H-NznhIh2AqN8jsjyq399n_NODPnIhcgUE6CWyrsULI#0))
-
-[Demo](https://www.youtube.com/watch?v=ilUbDRxwoWw&ab_channel=AnirudhaJoshi)
-
 ## Technologies Used
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
