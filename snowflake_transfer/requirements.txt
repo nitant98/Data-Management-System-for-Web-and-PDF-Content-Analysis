@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+snowflake-connector-python
+sqlalchemy 
+snowflake-sqlalchemy
+snowflake-connector-python[pandas]
+pathlib
+snowflake
